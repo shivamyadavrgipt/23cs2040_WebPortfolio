@@ -13,17 +13,18 @@
  }
 
  :root {
-   --bg-color:#040404;
-   --second-bg-color:#070f1a;
-   --text-color:#fff;
-   --main-color:#0ef; 
-    
- }
- .dark-mode {
    --bg-color:#c0bfc7;
     --second-bg-color:#434647;
     --text-color:#030303;
     --main-color:rgb(101, 183, 187); 
+    
+ }
+ .dark-mode {
+   --bg-color:#040404;
+   --second-bg-color:#070f1a;
+   --text-color:#fff;
+   --main-color:#0ef; 
+   
  }
 
  html{
