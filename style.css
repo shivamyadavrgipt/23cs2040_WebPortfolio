@@ -13,16 +13,17 @@
  }
 
  :root {
-    --bg-color:#9b9c9e;
-    --second-bg-color:#44464d;
-    --text-color:#030303;
-    --main-color:#0ef; 
+   --bg-color:#040404;
+   --second-bg-color:#070f1a;
+   --text-color:#fff;
+   --main-color:#0ef; 
+    
  }
  .dark-mode {
-   --bg-color:#040404;
-    --second-bg-color:#070f1a;
-    --text-color:#fff;
-    --main-color:#0ef; 
+   --bg-color:#c0bfc7;
+    --second-bg-color:#434647;
+    --text-color:#030303;
+    --main-color:rgb(101, 183, 187); 
  }
 
  html{
@@ -55,7 +56,7 @@
  }
 
  .header.sticky{
-   border-bottom: .1rem solid rgba(0, 0,0, .2);
+   border-bottom: .1rem solid rgba(255, 255, 255, 0.2);
  }
  .logo{
     font-size: 2.5rem;
@@ -136,7 +137,7 @@
  }
 
  .home-img img{
-    width:35vw ;
+    width:60vw ;
  }
 
 
